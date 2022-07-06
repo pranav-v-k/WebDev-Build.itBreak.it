@@ -1,0 +1,63 @@
+.navbar {
+    padding-right: 250px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.float-left{
+    margin-left: 200px;
+}
+.container{
+    margin-top: 6%;
+    margin-left: 20%;
+    font-family: 'Gulzar', serif;
+    font-style: bold;
+
+    
+}
+.gh{
+    color: rgb(63, 219, 32);
+    margin-left: 20%;
+    margin-top: 0%;
+    margin-bottom: 300px;
+}
+.hhg{
+    margin-left: 20%;
+   
+}
+.btn{
+    margin-left: 47%;
+}
+.jk{
+    color: rgb(36, 218, 36);
+}
+
+
+.img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 30px;
+}
+.brand{
+  margin-left: 17%;
+  margin-top: 50px;
+}
+.join{
+    font-family:'Finlandica', sans-serif ;
+    margin-left: 17%;
+    margin-top: 4%;
+}
+.card-deck{
+    margin-left: 50%;
+}
+.card-body{
+      color: rgb(255, 255, 255);
+      font-style: bold;
+      border-radius: 25px;
+}
+.much{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 45px;
+    padding-bottom: 50px;
+}
